@@ -14,7 +14,7 @@ Rearrange an xml file with the Python [ElementTree Package](https://docs.python.
 
 ### Code
 
-Code to modify the xml file is here
+Code to modify the xml file is [here](https://github.com/hansglick/xml_task/blob/main/clean.ipynb)
 
 
 
